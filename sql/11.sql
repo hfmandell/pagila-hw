@@ -3,3 +3,8 @@
  * Use tables inventory and film.
  * Order by film title alphabetically.
  */
+SELECT film.film_id, title, count(*)
+FROM film, inventory
+WHERE film.film_id=inventory.film_id AND title ILIKE 'h%'
+GROUP BY film.film_id
+ORDER BY title DESC;
