@@ -1,5 +1,7 @@
 # pagila-hw
-[![](https://github.com/hfmandell/pagila-hw/workflows/tests/badge.svg)](https://github.com/hfmandell/pagila-hw/actions?query=workflow%3Atests)
+<!--[![](https://github.com/hfmandell/pagila-hw/workflows/tests/badge.svg)](https://github.com/hfmandell/pagila-hw/actions?query=workflow%3Atests)
+-->
+[![tests](https://github.com/hfmandell/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/hfmandell/pagila-hw/actions/workflows/tests.yml)
 
 ## Background
 
